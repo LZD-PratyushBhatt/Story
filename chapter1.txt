@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 The Dragon Variation was awesome
+=======
+Hello Devils How are you!
+>>>>>>> devils
